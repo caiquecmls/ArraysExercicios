@@ -7,7 +7,7 @@ package lista;
  *
  * @author caiqu
  */
-public class exercicio5 {
+public class Exercicio5 {
 
     public static void main(String[] args) {
         int vetor[] = {5, 7, 5, 7, 5, 7};

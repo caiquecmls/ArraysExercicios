@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author caiqu
  */
-public class exercicio7 {
+public class Exercicio7 {
 
     public static void main(String[] args) {
         int vetor[] = {7, 5, 9, 7, 2, 3, 4, 9, 1};

@@ -7,7 +7,7 @@ package lista;
  *
  * @author caiqu
  */
-public class exercicio4 {
+public class Exercicio4 {
 
     public static void main(String[] args) {
         double vetor[] = {2.4, 2.7, 8, 2.5, 100, 1.0};

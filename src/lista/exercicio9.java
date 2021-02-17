@@ -11,7 +11,7 @@ import java.util.Arrays;
  *
  * @author caiqu
  */
-public class exercicio9 {
+public class Exercicio9 {
 
     public static void main(String[] args) {
         int vetorA[] = {1, 4, 5, 9, 7, 10};
